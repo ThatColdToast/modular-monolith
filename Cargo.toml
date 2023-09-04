@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+	"search_service",
+	"product_finder",
+	"pricer",
+	"base_pricer",
+	"holiday_pricer",
+	"order_history",
+	"types",
+]

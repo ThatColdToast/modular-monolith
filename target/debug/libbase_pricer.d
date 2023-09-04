@@ -1,0 +1,1 @@
+/home/thatcoldtoast/Documents/Dev/modular-monolith/target/debug/libbase_pricer.rlib: /home/thatcoldtoast/Documents/Dev/modular-monolith/base_pricer/src/lib.rs /home/thatcoldtoast/Documents/Dev/modular-monolith/types/src/lib.rs
