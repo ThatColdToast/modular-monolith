@@ -1,1 +1,0 @@
-/home/thatcoldtoast/Documents/Dev/modular-monolith/target/debug/libproduct_finder.rlib: /home/thatcoldtoast/Documents/Dev/modular-monolith/product_finder/src/lib.rs /home/thatcoldtoast/Documents/Dev/modular-monolith/types/src/lib.rs
